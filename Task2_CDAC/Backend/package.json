@@ -1,0 +1,28 @@
+{
+  "name": "online91",
+  "version": "1.0.0",
+  "description": "Online Store and Ecomerce",
+  "main": "interntest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "jsrsasign": "^10.8.6",
+    "md5": "^2.3.0",
+    "mime": "^3.0.0",
+    "mongoose": "^7.0.3",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1"
+  }
+}
